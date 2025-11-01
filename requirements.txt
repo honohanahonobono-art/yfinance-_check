@@ -1,6 +1,5 @@
 yfinance
 pandas 
-matplotlib.pyplot 
+matplotlib
 altair 
-altair_viewer
 streamlit 
