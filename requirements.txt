@@ -1,0 +1,6 @@
+yfinance
+pandas 
+matplotlib.pyplot 
+altair 
+altair_viewer
+streamlit 
